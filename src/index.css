@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+
+.black-overlay
+{
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.image
+{
+    background-image: linear-gradient( to bottom,rgba(255,255,255,0) 60%, rgba(0,0,0,1));
+}
+.background {
+    background-image: url('https://www.hse.ru/data/2017/08/04/1173606331/4iStock-531182956.jpg');
+  
+    filter:brightness(0.9)
+}

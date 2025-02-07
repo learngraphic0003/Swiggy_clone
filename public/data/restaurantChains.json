@@ -1,0 +1,202 @@
+[
+    {
+        "image": "https://media.istockphoto.com/id/1442417585/photo/person-getting-a-piece-of-cheesy-pepperoni-pizza.jpg?s=612x612&w=0&k=20&c=k60TjxKIOIxJpd4F4yLMVjsniB4W1BpEV4Mi_nb4uJU=",
+        "offer": "Items at ₹179",
+        "title": "Pizza Hut",
+        "rating": 4.2,
+        "minTime": 30,
+        "maxTime": 40,
+        "name": "Pizzas",
+        "place": "New Jodhpur"
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGblYE2cUhhdsWo5k2Qiu7_oaj-Z95Wa9Evg&s",
+        "offer": "₹50 OFF ABOVE ₹199",
+        "title": "Janta Sweet Home",
+        "rating": 4.5,
+        "minTime": 35,
+        "maxTime": 40,
+        "name": "Sweets,South Indian",
+        "place": "Shastri Nagar"
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVDnGZmdgbgYMV_8g9DyVedekMGfdvSvAF-g&s",
+        "offer": "₹85 OFF ABOVE ₹149",
+        "title": "Parihaar Bhojnalay",
+        "rating": 4.3,
+        "minTime": 35,
+        "maxTime": 40,
+        "name": "North India, Thalis",
+        "place": "Sardarpura"
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOxYCP-MfH14QQzl3UjPWv6wA-owo2BHL4BQ&s",
+        "offer": "₹70 OFF ABOVE ₹149",
+        "title": "Kwality Walls Frozen",
+        "rating": 4.5,
+        "minTime": 25,
+        "maxTime": 25,
+        "name": "Desserts,Ice Cream",
+        "place": "Chopsani Housing Board"
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTGx4cjuyH29-YTQxXFokKF7kKagMc3qRg-g&s",
+        "offer": "₹1-5 OFF ABOVE ₹179",
+        "title": "The Good Bowl",
+        "rating": 4.4,
+        "minTime": 30,
+        "maxTime": 35,
+        "name": "Biryani, North India",
+        "place": "Shastri Nagar"
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLl_n6RvXnQv4G1XmJyXSN21CsuEmXTwaTFw&s",
+        "offer": "₹100 OFF ABOVE ₹499",
+        "title": "NIC Ice Creams",
+        "rating": 4.7,
+        "minTime": 25,
+        "maxTime": 30,
+        "name": "Desserts,Ice Cream",
+        "place": "Sardarpura"
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR302JtTwD_bHZsPyOL25-7Vn4xYsJ9J6RA2Q&s",
+        "offer": "Items at ₹109",
+        "title": "Dosh Center",
+        "rating": 4.0,
+        "minTime": 35,
+        "maxTime": 40,
+        "name": "South Indian",
+        "place": "Chopsani Housing Board"
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRthpjuW3ZGH2B6y5SOWRN7QuUCfrNWQ_OI1Q&s",
+        "offer": "₹125 OFF ABOVE ₹349",
+        "title": "Lunch Box - Meals and Thalis",
+        "rating": 4.3,
+        "minTime": 30,
+        "maxTime": 35,
+        "name": "Biryani, North India",
+        "place": "Shastri Nagar"
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP68GaMxj6iSn18pYEVZyW0lLLYgbEzbdmFQ&s",
+        "offer": "₹70 OFF ABOVE ₹249",
+        "title": "McDonald's",
+        "rating": 4.4,
+        "minTime": 30,
+        "maxTime": 35,
+        "name": "American",
+        "place": "Rawaton Ka Bass"
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6oqz6SeTnqYpiVxO2SbB6q7On-1LNRQ2bLA&s",
+        "offer": "₹100 OFF ABOVE ₹449",
+        "title": "Kajal's Cake",
+        "rating": 4.5,
+        "minTime": 35,
+        "maxTime": 40,
+        "name": "Cake",
+        "place": "Chopsani Housing Board"},
+        
+        {
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnV0Hm5iqEuCIA5SKBLx8tLw0bnXmcn3uoSg&s",
+                "offer": "Items at ₹179",
+                "title": "Pizza Hut",
+                "rating": 4.2,
+                "minTime": 30,
+                "maxTime": 40,
+                "name": "Dosa",
+                "place": "New Jodhpur"
+        },
+        {
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa3kZYWeC2Id_h76ZmgGZdYBjg3MLOsMzDDw&s",
+                "offer": "₹50 OFF ABOVE ₹199",
+                "title": "Janta Sweet Home",
+                "rating": 4.5,
+                "minTime": 35,
+                "maxTime": 40,
+                "name": "Idli Sambhar",
+                "place": "Shastri Nagar"
+            },
+            {
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO_9I6y8tFlwzousYvLR6tGvPYuPCAjptL5A&s",
+                "offer": "₹85 OFF ABOVE ₹149",
+                "title": "Parihaar Bhojnalay",
+                "rating": 4.3,
+                "minTime": 35,
+                "maxTime": 40,
+                "name": "chhole Puri",
+                "place": "Sardarpura"
+            },
+            {
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyetyGZz18ZMHKwizF-UC3pJhixR-EH7ypsQ&s",
+                "offer": "₹70 OFF ABOVE ₹149",
+                "title": "Kwality Walls Frozen",
+                "rating": 4.5,
+                "minTime": 25,
+                "maxTime": 25,
+                "name": "Litti Chokha",
+                "place": "Chopsani Housing Board"
+            },
+            {
+                "image": "https://mildlyindian.com/wp-content/uploads/2021/01/mamispongal.jpg",
+                "offer": "₹1-5 OFF ABOVE ₹179",
+                "title": "The Good Bowl",
+                "rating": 4.4,
+                "minTime": 30,
+                "maxTime": 35,
+                "name": "Pongal",
+                "place": "Shastri Nagar"
+            },
+            {
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1y8Rt2y7FHYk_pVL5fcVH2HKbg8uxs-qLWA&s",
+                "offer": "₹100 OFF ABOVE ₹499",
+                "title": "NIC Ice Creams",
+                "rating": 4.7,
+                "minTime": 25,
+                "maxTime": 30,
+                "name": "Dhokla",
+                "place": "Sardarpura"
+            },
+            {
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFw6nrGlXqOslS3WTOIYMX5b3AycZiiDptRQ&s",
+                "offer": "Items at ₹109",
+                "title": "Dosh Center",
+                "rating": 4.0,
+                "minTime": 35,
+                "maxTime": 40,
+                "name": "Pakode",
+                "place": "Chopsani Housing Board"
+            },
+            {
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMXv5Mbu8FNAQ1HrNzLHcYn12_Xy3cSAQk3g&s",
+                "offer": "₹125 OFF ABOVE ₹349",
+                "title": "Lunch Box - Meals and Thalis",
+                "rating": 4.3,
+                "minTime": 30,
+                "maxTime": 35,
+                "name": "Kaju Katli",
+                "place": "Shastri Nagar"
+            },
+            {
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpaN1pOqye1ZT6uWVz9AjRzA4muepclUfnZA&s",
+                "offer": "₹70 OFF ABOVE ₹249",
+                "title": "McDonald's",
+                "rating": 4.4,
+                "minTime": 30,
+                "maxTime": 35,
+                "name": "Kheer",
+                "place": "Rawaton Ka Bass"
+            },
+            {
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfnn9Y-szcQQH34snZLlLuQ6M3pKaK_n7zcA&s",
+                "offer": "₹100 OFF ABOVE ₹449",
+                "title": "Kajal's Cake",
+                "rating": 4.5,
+                "minTime": 35,
+                "maxTime": 40,
+                "name": "Paneer Chilli",
+                "place": "Chopsani Housing Board"}
+
+]
