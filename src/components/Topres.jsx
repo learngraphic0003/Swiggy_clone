@@ -4,15 +4,7 @@ import Card from './Card';
 
 const Topres = () => {
 
-  const rightbutton = () => {
-     // Loop back to the first slide when reaching the end
-     if (Slide >= Category.length - 1) {
-      Setslide(0); // Reset to first item
-    } else {
-      Setslide(Slide + 1); // Move to next item
-    }
-  }
-
+ 
   const [data, setdata ] = useState([]);
 
   const fetchtopres = async () => {
@@ -37,10 +29,10 @@ const Topres = () => {
             {/* Add any additional buttons or actions here */}
           </div>
         </div>
-        <div className=" flex gap-3 overflow-x-auto scroll-smooth py-4 ">
+        <div  className=" flex gap-3 overflow-x-auto scroll-smooth py-4 ">
           {
             data.map((d, i) => {
-              return <Card {...d} key={i} />
+              return <Card  {...d} key={i} />
             })
           } 
         </div>

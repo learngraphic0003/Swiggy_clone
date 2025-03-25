@@ -25,10 +25,10 @@ const Online = () => {
                     "> Restaurants with online food delivery in delhi</div>
                     
                   </div>
-                  <div className='    sm:grid grid-cols-4 gap-3  '> 
+                  <div className='sm:grid grid-cols-4 gap-3  '> 
                     { data.map(
                       (d,i)=>
-                      { return <Card {...d}/>
+                      { return <Card  {...d}/>
                                   
 
 
